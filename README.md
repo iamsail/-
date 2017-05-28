@@ -11,7 +11,7 @@
 
 之前是在[博客](http://www.sail.name/)写读书笔记的,多少是有些不太方便
 
-这是第一本在gitbook所写的书
+这是第一本在gitbook所写的书,[地址戳这儿](https://www.gitbook.com/book/iamsail/panghuang/details)
 
 **************************************
 
